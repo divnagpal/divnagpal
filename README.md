@@ -1,10 +1,10 @@
 Divya Nagpal 
 
-🌉 Bridge Design engineer turned product enthusiast
+🌉 Design Engineer turned AI Product Enthusiast
 
-AI Product Strategy & Operations · Enterprise agentic AI · Ex-McKinsey & BCG
+AI Product Strategy & Operations · Enterprise Agentic AI · Ex-McKinsey & BCG
 
-I take enterprise AI agents from first customer conversation to pilot and launch.
+I take enterprise AI agents from first customer conversation to pilot and launch
 🤖 15+ AI agent proofs of concept and 8+ enterprise pilots at Netomi
 📈 Pricing, GTM and GenAI strategy at McKinsey and BCG
 
