@@ -11,4 +11,4 @@ I take enterprise AI agents from first customer conversation to pilot and launch
 🎓 MBA, Business Analytics (WashU Olin) · Bachelor of Engineering, (Panjab University)
 
 Find me
-🌐 divyanagpal.me · 💼 LinkedIn · 🤖 llms.txt
+🌐 [divyanagpal.me](https://divyanagpal.me/) · 💼 [LinkedIn](https://www.linkedin.com/in/divya-nagpal/) · 🤖 [llms.txt](https://divyanagpal.me/llms.txt)
